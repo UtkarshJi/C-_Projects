@@ -1,3 +1,4 @@
+//cpp program to implement a stack without using any predefined stack functions and features
 #include<iostream>
 using namespace std;    
 class stack{
